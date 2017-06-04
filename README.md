@@ -7,6 +7,7 @@ A Simple Java Based Piano Emulator. Play keyboard using keyboard.
 
 JRE Download - http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-**Screenshot**
+**SCREENSHOTS**
+
 ![Screenshots](https://raw.githubusercontent.com/techiespace/Virtual-Piano/master/screenshots/ss1.jpg)
 
